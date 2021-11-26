@@ -1,16 +1,21 @@
 # Hub
 
+- [Hub](#hub)
+  - [Main page](#main-page)
+  - [IOSA1 page](#iosa1-page)
+  - [IOSA2 page](#iosa2-page)
+
 ## Main page
-- [ ] Add some announcements
-- [ ] Add link to IOSA2 page
-- [ ] Add link to GitHub repo
+- [x] Add some announcements
+- [x] Add link to IOSA2 page
+- [x] Add link to GitHub repo
 
 ## IOSA1 page
-- [ ] Discontinuation disclaimer
-- [ ] Publish build 1000
+- [x] Discontinuation disclaimer
+- [x] Publish build 1000
 
 ## IOSA2 page
-- [ ] Add Stable channel
-- [ ] Add Beta channel
-- [ ] Add Dev channel
-- [ ] Add release announcements
+- [x] Add Stable channel
+- [x] Add Beta channel
+- [x] Add Dev channel
+- [x] Add release announcements

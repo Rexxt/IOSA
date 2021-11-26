@@ -6,9 +6,9 @@
   - [Build 12xx](#build-12xx)
 
 ## Build 10xx
-- [ ] Open-source
+- [x] Open-source
 - [ ] GUI update
-- [ ] (A)GPLv3/DLFOSS (Duckie's License for Free and Open-Source Software) licensing
+- [x] GPLv3 License
 - [ ] (Optional) Un-hardcoding apps (I noticed a mysterious USD to RON link in the vbaProject???)
 
 ## Build 11xx
